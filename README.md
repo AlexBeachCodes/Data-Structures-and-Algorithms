@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# DATA STRUCTURES AND ALGORITHMS
 
 ## Big O Notation
 
